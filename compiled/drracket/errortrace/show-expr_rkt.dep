@@ -1,1 +1,0 @@
-("6.12" ("670967451e3a1c3616c23944721fbe0cf32cc525" . "a189d1729a4dd6a13b79357189898fd5986290f2") #"/home/mohit/Downloads/project/drmath/fundamental.rkt" (collects #"2htdp" #"image.rkt") (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
